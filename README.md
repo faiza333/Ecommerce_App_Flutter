@@ -2,7 +2,7 @@
 
 
  
- this is EcommerseApp complete with panel control for admin so he can add item and delete it 
+ this is EcommerseApp complete with controlpanel for admin so he can add item and delete it 
  
  i used Fluttter Framework with dart
  
